@@ -1,11 +1,34 @@
 ---
-layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+layout: project
+title: LLM Training Pipeline
+permalink: /projects/llm-training-pipeline
+subtitle: "Domain-specific language model fine-tuning"
+thumbnail: /assets/img/projects/llm.png
+img: /assets/img/projects/llm.png
+alt: LLM Training Pipeline
+date: 2024-01-01
+category: machine-learning
+description: >
+  A comprehensive pipeline for fine-tuning large language models for domain-specific applications. The project focuses on optimizing model efficiency and performance while maintaining high accuracy in specialized tasks.
+  <br/><br/>
+  Key features:
+  <ul>
+    <li>Custom fine-tuning pipeline</li>
+    <li>Model optimization techniques</li>
+    <li>Domain-specific training</li>
+    <li>Performance monitoring</li>
+  </ul>
+  <br/>
+  Technologies used:
+  <ul>
+    <li>Python</li>
+    <li>PyTorch</li>
+    <li>Transformers</li>
+    <li>Hugging Face</li>
+  </ul>
 ---
+
+You can find the project on [GitHub](https://github.com/efe-atas/llm-training-pipeline)
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

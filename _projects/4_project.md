@@ -1,11 +1,34 @@
 ---
-layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+layout: project
+title: Face Recognition App
+permalink: /projects/face-recognition-app
+subtitle: "AI-powered hairstyle recommendation app"
+thumbnail: /assets/img/projects/face-recognition.png
+img: /assets/img/projects/face-recognition.png
+alt: Face Recognition App
+date: 2024-01-01
+category: mobile
+description: >
+  A mobile application that uses face recognition technology to suggest personalized hairstyles based on facial features. The app integrates OpenAI's API for advanced facial analysis and provides AI-driven recommendations.
+  <br/><br/>
+  Key features:
+  <ul>
+    <li>Face recognition and analysis</li>
+    <li>AI-powered hairstyle recommendations</li>
+    <li>Facial landmark detection</li>
+    <li>Personalized suggestions</li>
+  </ul>
+  <br/>
+  Technologies used:
+  <ul>
+    <li>Flutter</li>
+    <li>Dart</li>
+    <li>OpenAI API</li>
+    <li>Image Processing</li>
+  </ul>
 ---
+
+You can find the project on [GitHub](https://github.com/efe-atas/face-recognition-app)
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

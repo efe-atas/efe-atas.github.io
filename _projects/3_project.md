@@ -1,12 +1,34 @@
 ---
-layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+layout: project
+title: Image Processing and 2D DCT Implementation
+permalink: /projects/image-processing-dct
+subtitle: "Custom implementation of image processing algorithms"
+thumbnail: /assets/img/projects/dct.png
+img: /assets/img/projects/dct.png
+alt: Image Processing and 2D DCT Implementation
+date: 2024-01-01
+category: image-processing
+description: >
+  A Python-based implementation of image processing algorithms, including custom functions for image summation and the 2D Discrete Cosine Transform (DCT) algorithm. The project demonstrates fundamental concepts in image processing and mathematical transformations.
+  <br/><br/>
+  Key features:
+  <ul>
+    <li>Custom image processing functions</li>
+    <li>2D Discrete Cosine Transform implementation</li>
+    <li>Mathematical transformation applications</li>
+    <li>Image compression techniques</li>
+  </ul>
+  <br/>
+  Technologies used:
+  <ul>
+    <li>Python</li>
+    <li>OpenCV</li>
+    <li>NumPy</li>
+    <li>Matplotlib</li>
+  </ul>
 ---
+
+You can find the project on [GitHub](https://github.com/efe-atas/image-processing-dct)
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

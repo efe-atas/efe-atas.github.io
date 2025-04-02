@@ -1,11 +1,36 @@
 ---
-layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+layout: project
+title: Cattle Behavior Analysis
+permalink: /projects/cattle-behavior-analysis
+subtitle: "AI-powered livestock monitoring system"
+thumbnail: /assets/img/projects/cattle.png
+img: /assets/img/projects/cattle.png
+alt: Cattle Behavior Analysis
+date: 2024-01-01
+category: machine-learning
+description: >
+  A comprehensive system for real-time monitoring and analysis of cattle behavior using artificial intelligence. The project combines computer vision techniques with deep learning to provide insights into livestock health and behavior patterns.
+  <br/><br/>
+  Key features:
+  <ul>
+    <li>Real-time cattle behavior monitoring</li>
+    <li>YOLO-based activity detection</li>
+    <li>3D-CNN for temporal analysis</li>
+    <li>Custom DICOM viewer for medical imaging</li>
+    <li>Object tracking with ByteTrack/BoT-SORT/DeepSORT</li>
+  </ul>
+  <br/>
+  Technologies used:
+  <ul>
+    <li>Python</li>
+    <li>OpenCV</li>
+    <li>YOLO</li>
+    <li>TensorFlow</li>
+    <li>React</li>
+  </ul>
 ---
+
+You can find the project on [GitHub](https://github.com/efe-atas/cattle-behavior-analysis)
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

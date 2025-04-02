@@ -1,12 +1,34 @@
 ---
-layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
-related_publications: true
+layout: project
+title: Quantum Computing Projects
+permalink: /projects/quantum-computing
+subtitle: "Quantum computing and information theory implementations"
+thumbnail: /assets/img/projects/quantum.png
+img: /assets/img/projects/quantum.png
+alt: Quantum Computing Projects
+date: 2024-01-01
+category: quantum-computing
+description: >
+  A collection of quantum computing projects focusing on quantum information theory, cryptography, and communication. The projects demonstrate fundamental concepts in quantum computing and their practical applications.
+  <br/><br/>
+  Key features:
+  <ul>
+    <li>Quantum Information Theory Implementation</li>
+    <li>Quantum Cryptography Protocols</li>
+    <li>Quantum Communication Systems</li>
+    <li>Quantum Teleportation Simulation</li>
+  </ul>
+  <br/>
+  Technologies used:
+  <ul>
+    <li>Python</li>
+    <li>Qiskit</li>
+    <li>Cirq</li>
+    <li>Quantum Computing Simulators</li>
+  </ul>
 ---
+
+You can find the project on [GitHub](https://github.com/efe-atas/quantum-computing)
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

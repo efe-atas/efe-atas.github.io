@@ -1,12 +1,34 @@
 ---
-layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+layout: project
+title: Cat & Dog Image Classification
+permalink: /projects/cat-dog-classification
+subtitle: "Deep learning based image classification project"
+thumbnail: /assets/img/projects/catdog.png
+img: /assets/img/projects/catdog.png
+alt: Cat & Dog Image Classification
+date: 2024-01-01
+category: machine-learning
+description: >
+  An image classification project that uses deep learning to distinguish between cats and dogs. The model achieved 96% accuracy on the test set through careful architecture design and data augmentation techniques.
+  <br/><br/>
+  Key features:
+  <ul>
+    <li>96% accuracy on test set</li>
+    <li>Custom CNN architecture</li>
+    <li>Data augmentation implementation</li>
+    <li>Model optimization techniques</li>
+  </ul>
+  <br/>
+  Technologies used:
+  <ul>
+    <li>Python</li>
+    <li>TensorFlow</li>
+    <li>Keras</li>
+    <li>NumPy</li>
+  </ul>
 ---
+
+You can find the project on [GitHub](https://github.com/efe-atas/cat-dog-classification)
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
