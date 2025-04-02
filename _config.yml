@@ -7,9 +7,8 @@ first_name: İsmail
 middle_name: Efe
 last_name: Atas
 email: iefeatas@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: blank
+description: Computer Science Student
+footer_text: 
 keywords: efeatas, ismail, atas, efe, atas, ismail atas, ismail efe atas # add your own keywords or leave empty
 lang: en, tr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
