@@ -1,92 +1,127 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "İsmail Efe Ataş",
+    "label": "Software Engineer",
+    "image": "assets/img/prof_pic.jpg",
+    "email": "iefeatas@gmail.com",
+    "phone": "541-839-0686",
+    "url": "https://efeatas.com",
+    "summary": "A software engineer with a passion for building scalable and efficient systems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Ankara, Turkey",
+      "postalCode": "06560",
+      "city": "Ankara",
+      "countryCode": "TR",
+      "region": "Ankara"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "efeatas",
+        "url": "https://linkedin.com/in/efeatas"
+      },
+      {
+        "network": "GitHub",
+        "username": "efe-atas",
+        "url": "https://github.com/efe-atas"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "TÜBİTAK",
+      "position": "2247-C Undergraduate Research Assistant",
+      "url": "https://www.tubitak.gov.tr/",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Research assistant in computer science and engineering",
+      "highlights": [
+        "Developing and implementing machine learning models",
+        "Working on computer vision projects",
+        "Contributing to research publications"
+      ]
+    },
+    {
+      "name": "Wellztech Bilişim ve İleri Teknolojiler A.Ş.",
+      "position": "Software Engineer",
+      "url": "https://www.wellztech.com/",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "Developing web applications and machine learning models",
+      "highlights": [
+        "Developed a responsive web application using React for real-time monitoring of cattle behavior",
+        "Implemented YOLO-based model in Python and OpenCV for cattle detection and activity classification",
+        "Built image preprocessing pipeline and integrated 3D-CNN for temporal feature analysis",
+        "Optimized object tracking algorithms and collaborated on LLM training pipelines"
+      ]
+    },
+    {
+      "name": "Limak Teknoloji",
+      "position": "Flutter Developer Intern",
+      "url": "https://www.limak.com.tr/",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "summary": "Mobile application development using Flutter",
+      "highlights": [
+        "Developed user interfaces using Flutter",
+        "Designed and developed a face recognition app using OpenAI API",
+        "Integrated APIs and optimized performance across mobile platforms"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "organization": "Tübitak",
+      "location": "Ankara, Turkey",
+      "position": "Research Assistant",
+      "url": "https://www.tuba.gov.tr/",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+        "summary": "Developing a system for the automation of the process of the Turkish Patent and Trademark Office.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "TED University",
+      "location": "Ankara, Turkey",
+      "url": "https://www.tedu.edu.tr/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2022-08-01",
+      "endDate": "2026-05-01",
+      "score": "3.43",
+      "courses": ["Computer Science", "Business Management"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Tübitak Scholarship",
+      "date": "2024-01-01",
+      "awarder": "Tübitak",
+      "summary": "Scholarship for the best students in the field of Computer Science."
     }
   ],
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "date": "2024-01-01",
+      "issuer": "Tübitak",
+      "url": "https://www.tuba.gov.tr/",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "date": "2024-01-01",
+      "issuer": "Tübitak",
+      "url": "https://www.tuba.gov.tr/",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "date": "2024-01-01",
+      "issuer": "Tübitak",
+      "url": "https://www.tuba.gov.tr/",
       "icon": "fa-solid fa-envelope"
     },
     {
@@ -136,37 +171,34 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Programming Languages",
+      "keywords": ["Java", "Javascript", "Python", "C", "SQL", "Dart"]
+    },
+    {
+      "name": "Developer Tools",
+      "keywords": ["Git", "VS Code", "Cursor", "Visual Studio", "PyCharm", "IntelliJ", "Eclipse"]
+    },
+    {
+      "name": "Libraries",
+      "keywords": ["TensorFlow", "PyTorch", "Keras", "OpenCV", "Ultralytics", "pandas", "NumPy", "Matplotlib"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Turkish",
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
+        "Artificial Intelligence",
         "Quantum Computing",
         "Quantum Information",
         "Quantum Cryptography",
@@ -189,12 +221,32 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "School Course Scheduler",
+      "summary": "A responsive course selection system for educational institutions",
+      "highlights": [
+        "Developed using React and Tailwind CSS",
+        "Interactive and mobile-friendly interface",
+        "Real-time scheduling features"
+      ],
+      "url": "https://scheduler.efeatas.dev"
+    },
+    {
+      "name": "Cat & Dog Image Classification",
+      "summary": "Image classification project using deep learning",
+      "highlights": [
+        "Achieved 96% accuracy on test set",
+        "Implemented CNN with custom architecture",
+        "Utilized data augmentation techniques"
+      ]
+    },
+    {
+      "name": "Image Processing and 2D DCT Implementation",
+      "summary": "Custom implementation of image processing algorithms",
+      "highlights": [
+        "Implemented custom image processing functions",
+        "Developed 2D Discrete Cosine Transform algorithm",
+        "Enhanced understanding of mathematical transformations"
+      ]
     }
   ]
 }
