@@ -1,30 +1,10 @@
 ---
-layout: project
-title: School Course Scheduler
-permalink: /projects/school-course-scheduler
-subtitle: "A responsive course selection system for educational institutions"
-thumbnail: /assets/img/projects/scheduler.png
-img: /assets/img/projects/scheduler.png
-alt: School Course Scheduler
-date: 2024-01-01
+layout: page
+title: project 1
+description: School Course Scheduler project
+img: assets/img/1.jpg
+importance: 1
 category: web
-description: >
-  A responsive course selection system for educational institutions to streamline timetable planning. The application features an interactive and mobile-friendly interface built with React and Tailwind CSS.
-  <br/><br/>
-  Key features:
-  <ul>
-    <li>Real-time scheduling capabilities</li>
-    <li>Mobile-responsive design</li>
-    <li>Interactive course selection interface</li>
-    <li>Optimized performance for seamless user experience</li>
-  </ul>
-  <br/>
-  Technologies used:
-  <ul>
-    <li>React</li>
-    <li>Tailwind CSS</li>
-    <li>JavaScript</li>
-  </ul>
 ---
 
 You can find the project at [scheduler.efeatas.dev](https://scheduler.efeatas.dev)

@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: İsmail
 middle_name: Efe
-last_name: Atas
+last_name: Ataş
 email: iefeatas@gmail.com
 description: Computer Science Student
 footer_text: 
@@ -128,8 +128,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: efeatas # blog_name will be displayed in your blog page
-blog_description: computer science student 3rd year at TED University
+blog_name:  # blog_name will be displayed in your blog page
+blog_description: notes and ideas about computer science and other subjects
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -165,11 +165,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+    rss_url: https://medium.com/@iefeatas/feed
+  
 
 # -----------------------------------------------------------------------------
 # Newsletter

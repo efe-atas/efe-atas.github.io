@@ -1,31 +1,10 @@
 ---
-layout: project
-title: Quantum Computing Projects
-permalink: /projects/quantum-computing
-subtitle: "Quantum computing and information theory implementations"
-thumbnail: /assets/img/projects/quantum.png
-img: /assets/img/projects/quantum.png
-alt: Quantum Computing Projects
-date: 2024-01-01
-category: quantum-computing
-description: >
-  A collection of quantum computing projects focusing on quantum information theory, cryptography, and communication. The projects demonstrate fundamental concepts in quantum computing and their practical applications.
-  <br/><br/>
-  Key features:
-  <ul>
-    <li>Quantum Information Theory Implementation</li>
-    <li>Quantum Cryptography Protocols</li>
-    <li>Quantum Communication Systems</li>
-    <li>Quantum Teleportation Simulation</li>
-  </ul>
-  <br/>
-  Technologies used:
-  <ul>
-    <li>Python</li>
-    <li>Qiskit</li>
-    <li>Cirq</li>
-    <li>Quantum Computing Simulators</li>
-  </ul>
+layout: page
+title: project 7
+description: Blog Platform project
+img: assets/img/7.jpg
+importance: 7
+category: web
 ---
 
 You can find the project on [GitHub](https://github.com/efe-atas/quantum-computing)

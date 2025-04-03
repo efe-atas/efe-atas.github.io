@@ -1,33 +1,10 @@
 ---
-layout: project
-title: Machine Learning Projects
-permalink: /projects/machine-learning
-subtitle: "Collection of machine learning implementations"
-thumbnail: /assets/img/projects/ml.png
-img: /assets/img/projects/ml.png
-alt: Machine Learning Projects
-date: 2024-01-01
-category: machine-learning
-description: >
-  A collection of machine learning projects showcasing various algorithms and techniques. The projects cover different aspects of machine learning, from basic implementations to advanced deep learning models.
-  <br/><br/>
-  Key features:
-  <ul>
-    <li>Various ML Algorithm Implementations</li>
-    <li>Deep Learning Models</li>
-    <li>Data Preprocessing Pipelines</li>
-    <li>Model Evaluation and Optimization</li>
-  </ul>
-  <br/>
-  Technologies used:
-  <ul>
-    <li>Python</li>
-    <li>TensorFlow</li>
-    <li>PyTorch</li>
-    <li>scikit-learn</li>
-    <li>NumPy</li>
-    <li>Pandas</li>
-  </ul>
+layout: page
+title: project 8
+description: Chat Application project
+img: assets/img/8.jpg
+importance: 8
+category: work
 ---
 
 You can find the project on [GitHub](https://github.com/efe-atas/machine-learning)
