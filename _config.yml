@@ -8,7 +8,7 @@ middle_name: Efe
 last_name: Ataş
 email: iefeatas@gmail.com
 description: Computer Science Student
-footer_text: 
+footer_text:
 keywords: efeatas, ismail, atas, efe, atas, ismail atas, ismail efe atas # add your own keywords or leave empty
 lang: en, tr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -77,7 +77,7 @@ flickr_id: # your flickr id
 github_username: efe-atas # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id:  # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -92,7 +92,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid:  # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -108,7 +108,7 @@ x_username: iefeatas # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: 
+contact_note:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # blog_name will be displayed in your blog page
+blog_name: # blog_name will be displayed in your blog page
 blog_description: notes and ideas about computer science and other subjects
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -166,7 +166,6 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@iefeatas/feed
-  
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -287,7 +286,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year,tags,categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag

@@ -77,7 +77,7 @@
       "url": "https://www.tuba.gov.tr/",
       "startDate": "2024-01-01",
       "endDate": "2024-01-01",
-        "summary": "Developing a system for the automation of the process of the Turkish Patent and Trademark Office.",
+      "summary": "Developing a system for the automation of the process of the Turkish Patent and Trademark Office.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
@@ -223,21 +223,13 @@
     {
       "name": "School Course Scheduler",
       "summary": "A responsive course selection system for educational institutions",
-      "highlights": [
-        "Developed using React and Tailwind CSS",
-        "Interactive and mobile-friendly interface",
-        "Real-time scheduling features"
-      ],
+      "highlights": ["Developed using React and Tailwind CSS", "Interactive and mobile-friendly interface", "Real-time scheduling features"],
       "url": "https://scheduler.efeatas.dev"
     },
     {
       "name": "Cat & Dog Image Classification",
       "summary": "Image classification project using deep learning",
-      "highlights": [
-        "Achieved 96% accuracy on test set",
-        "Implemented CNN with custom architecture",
-        "Utilized data augmentation techniques"
-      ]
+      "highlights": ["Achieved 96% accuracy on test set", "Implemented CNN with custom architecture", "Utilized data augmentation techniques"]
     },
     {
       "name": "Image Processing and 2D DCT Implementation",
