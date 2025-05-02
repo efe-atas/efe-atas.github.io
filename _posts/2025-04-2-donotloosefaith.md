@@ -1,7 +1,7 @@
 ---
 layout: post
 title: do not lose your faith
-date: 2025-03-07 00:32:13
+date: 2025-04-02 12:45:00
 description: go brrrrrr
 tags: thoughts-💭
 categories:
