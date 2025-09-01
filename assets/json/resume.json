@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "image": "assets/img/prof_pic.jpg",
     "email": "iefeatas@gmail.com",
-    "phone": "541-839-0686",
+    "phone": "xxx-xx-xxxx",
     "url": "https://efeatas.com",
     "summary": "A software engineer with a passion for building scalable and efficient systems.",
     "location": {
@@ -29,11 +29,32 @@
   },
   "work": [
     {
+      "name": "HAVELSAN AŞ",
+      "position": "Big Data & AI Intern",
+      "url": "https://www.havelsan.com/",
+      "startDate": "2025-07-01",
+      "endDate": "2025-09-01",
+      "summary": "End-to-end audio classification system development combining deep learning, audio signal processing, and full-stack deployment",
+      "highlights": [
+        "Spearheaded an end-to-end audio classification system, combining deep learning, audio signal processing, and full-stack deployment",
+        "Engineered a fully custom audio dataset collection pipeline using the YouTube API and YAMNet, enabling scalable and automated scraping of domain-specific sounds with class-aware filtering",
+        "Gained hands-on expertise with feature extraction techniques such as MFCC and Mel Spectrogram, applying signal preprocessing to boost model performance and robustness",
+        "Conducted feature space separability analysis using PCA, t-SNE, and embedding matrix visualizations to assess class clustering and guide model refinement",
+        "Applied transfer learning by freezing upper layers of the YAMNet model and fine-tuning lower layers on task-specific audio datasets for efficient domain adaptation",
+        "Researched and operationalized methods from leading survey papers, transforming theoretical models into practical implementations for real-world use cases",
+        "Trained and optimized various deep learning models, including VGG16, ResNet, and custom CNN architectures, executing extensive hyperparameter tuning and ablation studies across resource tiers",
+        "Performed comprehensive metric-driven evaluations and trade-off analyses (accuracy, latency, model size), maintaining detailed documentation and technical reporting to support future reproducibility",
+        "Designed and deployed a modern, responsive UI with React.js and Ant Design, enabling users to upload raw audio files and view live prediction results",
+        "Developed a FastAPI-based backend with scalable REST endpoints, delivering real-time audio inference and model serving over the web",
+        "Integrated all components into a seamless end-to-end pipeline, allowing non-technical users to interact with state-of-the-art models effortlessly through the browser"
+      ]
+    },
+    {
       "name": "TÜBİTAK",
       "position": "2247-C Undergraduate Research Assistant",
       "url": "https://www.tubitak.gov.tr/",
       "startDate": "2024-09-01",
-      "endDate": "",
+      "endDate": "2025-05-01",
       "summary": "Research assistant in computer science and engineering",
       "highlights": [
         "Developing and implementing machine learning models",
@@ -47,25 +68,32 @@
       "url": "https://www.wellztech.com/",
       "startDate": "2024-01-01",
       "endDate": "",
-      "summary": "Developing web applications and machine learning models",
+      "summary": "Developing web applications and machine learning models for livestock behavior monitoring",
       "highlights": [
-        "Developed a responsive web application using React for real-time monitoring of cattle behavior",
-        "Implemented YOLO-based model in Python and OpenCV for cattle detection and activity classification",
-        "Built image preprocessing pipeline and integrated 3D-CNN for temporal feature analysis",
-        "Optimized object tracking algorithms and collaborated on LLM training pipelines"
+        "Developed a responsive web application using React.js to enable real-time monitoring of livestock behavior, integrating a custom DICOM Viewer for analyzing medical imaging data related to animal health",
+        "Implemented a YOLOv11-based object detection system using Python and OpenCV to identify and classify cattle behaviors such as ruminating, eating, standing, and lying down",
+        "Prepared and annotated a high-quality video frame dataset to train and validate the YOLO model for robust behavior classification",
+        "Designed a custom image preprocessing and augmentation pipeline to improve model generalization and accuracy across diverse environments",
+        "Integrated a 3D Convolutional Neural Network (3D-CNN) to extract temporal features from video sequences, enhancing the spatial-only YOLO-based classification",
+        "Explored, compared, and fine-tuned multiple multi-object tracking algorithms including ByteTrack, BoT-SORT, and DeepSORT for accurate cattle movement tracking across frames",
+        "Collaborated on LLM fine-tuning pipelines to adapt large language models to domain-specific tasks, focusing on data preparation, prompt engineering, and model evaluation strategies"
       ]
     },
     {
-      "name": "Limak Teknoloji",
+      "name": "Limak Teknoloji Yazılım Savunma Sanayi ve Ticaret A.Ş.",
       "position": "Flutter Developer Intern",
       "url": "https://www.limak.com.tr/",
       "startDate": "2024-06-01",
       "endDate": "2024-08-01",
-      "summary": "Mobile application development using Flutter",
+      "summary": "Mobile application development using Flutter and Dart",
       "highlights": [
-        "Developed user interfaces using Flutter",
-        "Designed and developed a face recognition app using OpenAI API",
-        "Integrated APIs and optimized performance across mobile platforms"
+        "Designed and developed responsive, cross-platform mobile UIs using Flutter and Dart, emphasizing performance, usability, and clean architecture",
+        "Built modular components and applied advanced state management techniques (e.g., Provider, Riverpod) to ensure scalable and maintainable codebases",
+        "Completed a comprehensive Flutter development curriculum, gaining strong theoretical and practical command of widget lifecycle, app routing, and platform integration",
+        "Integrated RESTful APIs for real-time data handling and optimized performance for both iOS and Android platforms",
+        "Implemented and tested app functionalities using unit, widget, and integration tests, delivering reliable builds with detailed testing reports and QA documentation",
+        "Conceptualized and developed a face recognition application that suggests personalized hairstyles using OpenAI API and facial image analysis",
+        "Applied image processing techniques to extract facial landmarks and integrate AI-powered recommendation systems for dynamic UI personalization"
       ]
     }
   ],
@@ -90,16 +118,16 @@
       "studyType": "Bachelor",
       "startDate": "2022-08-01",
       "endDate": "2026-05-01",
-      "score": "3.43",
+      "score": "3.45",
       "courses": ["Computer Science", "Business Management"]
     }
   ],
   "awards": [
     {
-      "title": "Tübitak Scholarship",
-      "date": "2024-01-01",
-      "awarder": "Tübitak",
-      "summary": "Scholarship for the best students in the field of Computer Science."
+      "title": "TED University Full Scholarship",
+      "date": "2022-08-01",
+      "awarder": "TED University",
+      "summary": "Full scholarship for outstanding academic performance in Computer Engineering."
     }
   ],
   "certificates": [
@@ -180,7 +208,7 @@
     },
     {
       "name": "Libraries",
-      "keywords": ["TensorFlow", "PyTorch", "Keras", "OpenCV", "Ultralytics", "pandas", "NumPy", "Matplotlib"]
+      "keywords": ["TensorFlow", "PyTorch", "Keras", "OpenCV", "Ultralytics", "pandas", "NumPy", "Matplotlib", "librosa"]
     }
   ],
   "languages": [
@@ -209,36 +237,59 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Eren ŞİMŞEK",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Artificial Intelligence Team Lead — Senior Software Engineer at HAVELSAN."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Emre USLU",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Artificial Intelligence Software Engineer at HAVELSAN."
     }
   ],
   "projects": [
     {
-      "name": "School Course Scheduler",
-      "summary": "A responsive course selection system for educational institutions",
-      "highlights": ["Developed using React and Tailwind CSS", "Interactive and mobile-friendly interface", "Real-time scheduling features"],
-      "url": "https://scheduler.efeatas.dev"
+      "name": "CT-based Stroke Segmentation and Classification",
+      "summary": "UNet-based segmentation model for distinguishing between ischemic and hemorrhagic strokes from CT scan images",
+      "highlights": [
+        "Designed and trained a UNet-based segmentation model to distinguish between ischemic and hemorrhagic strokes from CT scan images",
+        "Applied image preprocessing techniques including windowing, contrast normalization, and data augmentation to enhance generalization",
+        "Extended the segmentation model with a classification head, enabling complete end-to-end clinical diagnosis support",
+        "Visualized segmentation masks as overlays on CT images to improve interpretability for medical professionals"
+      ],
+      "keywords": ["PyTorch", "UNet", "OpenCV", "Medical Imaging"]
     },
     {
-      "name": "Cat & Dog Image Classification",
-      "summary": "Image classification project using deep learning",
-      "highlights": ["Achieved 96% accuracy on test set", "Implemented CNN with custom architecture", "Utilized data augmentation techniques"]
+      "name": "Cattle Behavior Detection System",
+      "summary": "Complete behavior analysis pipeline combining YOLOv11, multi-object tracking, and 3D-CNN for temporal modeling",
+      "highlights": [
+        "Built a complete behavior analysis pipeline combining YOLOv11 for object detection, ByteTrack / BoT-SORT for tracking, and 3D-CNN for temporal modeling",
+        "Labeled a custom cattle video dataset with activity annotations (e.g., ruminating, lying, standing) to support supervised training",
+        "Designed a novel per-object temporal evaluation metric to analyze behavioral consistency over time",
+        "Optimized inference speed and model efficiency for deployment on edge devices in farm environments"
+      ],
+      "keywords": ["YOLOv11", "OpenCV", "3D-CNN", "Multi-Object Tracking"]
+    },
+    {
+      "name": "School Course Scheduler",
+      "summary": "A responsive course scheduling web app to help educational institutions manage class timetables",
+      "highlights": [
+        "Designed and implemented a responsive course scheduling web app to help educational institutions manage class timetables",
+        "Used React and Tailwind CSS to build a modern, mobile-friendly interface with a focus on UX and accessibility",
+        "Implemented real-time interaction features for seamless drag-and-drop scheduling and visual conflict resolution"
+      ],
+      "url": "https://scheduler.efeatas.dev",
+      "keywords": ["React", "Tailwind CSS"]
     },
     {
       "name": "Image Processing and 2D DCT Implementation",
-      "summary": "Custom implementation of image processing algorithms",
+      "summary": "Custom implementation of image processing algorithms and 2D Discrete Cosine Transform",
       "highlights": [
-        "Implemented custom image processing functions",
-        "Developed 2D Discrete Cosine Transform algorithm",
-        "Enhanced understanding of mathematical transformations"
-      ]
+        "Implemented basic image manipulation functions (addition, scaling, filtering) using OpenCV",
+        "Coded a mathematical implementation of the 2D Discrete Cosine Transform (DCT) algorithm from scratch, without using external DCT libraries",
+        "Strengthened theoretical understanding of frequency domain transformations and their role in image compression"
+      ],
+      "keywords": ["Python", "OpenCV"]
     }
   ]
 }
